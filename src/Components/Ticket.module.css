@@ -1,0 +1,24 @@
+
+.delbut {
+  width: auto;
+  height: auto;
+  position: relative;
+  border-radius: 10px;
+  top: -10px;
+  left: 85%;
+  padding: 0px;
+  border: none;
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+  outline: none;
+}
+.ticket_item{
+  height: 100px;
+  width: 180PX;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  margin:20px;
+  
+  padding-left: 10px;
+  padding-bottom: 10px;
+}

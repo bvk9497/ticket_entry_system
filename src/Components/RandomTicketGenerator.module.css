@@ -1,0 +1,7 @@
+.arranger{
+    height: auto;
+    width: 50%;
+    display: grid;
+    grid-row: auto;
+    justify-items: center;
+}   

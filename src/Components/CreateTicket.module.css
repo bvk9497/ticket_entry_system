@@ -1,0 +1,22 @@
+.ticketnumber{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+
+
+.addticket{
+    /* position: relative;
+    bottom: -15%; */
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: 2px;
+    background-color: aliceblue;
+    justify-content: center;
+    cursor: pointer;
+}
+
